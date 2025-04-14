@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @anthony-lino
-- 👀 I’m interested in Laser Powder Bed Fusion.
+- 👀 I’m interested in manufacturing data, particularly Laser Powder Bed Fusion
 - 🌱 I’m currently learning Docker and github workflows.
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on data registration of in-situ data from Laser Powder Bed Fusion
 - 📫 How to reach me aml334@case.edu or anthonymlino@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Love Brazilian Jiu-Jitsu https://www.instagram.com/cwru_judo/
 
 <!---
 anthony-lino/anthony-lino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
